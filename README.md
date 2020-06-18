@@ -2,4 +2,4 @@
 
 This is the source code for the NAG Cloud HPC Migration Service mini slide deck.
 
-* Slides at https://numericalalgorithmsgroup.github.io/NAG-Cloud-HPC/index.html
+* Slides at https://numericalalgorithmsgroup.github.io/NAG-Cloud-HPC
